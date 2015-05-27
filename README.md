@@ -1,6 +1,15 @@
 Python versions for homebrew
 ============================
 
+**This repo is no longer maintained.  Please use 
+[sscherfke/homebrew-python](https://github.com/sscherfke/homebrew-python) instead:**
+```bash
+$ brew untap ctheune/homebrew-python
+$ brew tap sscherfke/homebrew-python
+```
+
+-----
+
 Insane copy of homebrew's original Python version packages. Provides formulas
 for Python 2.4, 2.5, 2.6, 3.1 and 3.2.
 
